@@ -1,7 +1,63 @@
-# [Connect4](https://youtu.be/4ARsthVnCTg)
-- Coding Tutorial: https://youtu.be/4ARsthVnCTg
-- Demo: https://imkennyyip.github.io/Connect4/
 
-In this tutorial, you will learn to create the classic board game, connect 4! You will learn how to create the connect 4 board, alternate and place red and yellow pieces onto the border and detect 4 in a row in various directions.
+# 🎮 Connect 4 Web Game
 
-![connect4-preview](https://user-images.githubusercontent.com/78777681/163065856-2c814271-3084-4f55-bfc4-0060699cb063.png)
+## 🧩 Project Overview
+This is a simple and interactive **Connect 4** game implemented using HTML, CSS, and JavaScript. The game allows two players to take turns and play the classic Connect Four board game in the browser.
+
+---
+
+## 🛠️ Technologies Used
+
+- **HTML5** — Structure of the game
+- **CSS3** — Styling and layout
+- **JavaScript (Vanilla)** — Game logic and interactivity
+
+---
+
+## 📁 File Structure
+
+```
+index.html        # Main HTML file that renders the game interface
+connect4.css      # Stylesheet for game layout and visuals
+connect4.js       # JavaScript logic for game play, turns, win detection
+```
+
+---
+
+## 🚀 How to Run
+
+1. Download all the files: `index.html`, `connect4.css`, and `connect4.js`.
+2. Ensure all files are in the **same directory**.
+3. Open `index.html` in any modern web browser (Chrome, Firefox, Edge, etc.).
+4. Start playing the game!
+
+---
+
+## 🎯 Game Rules
+
+- Two players take turns dropping colored discs into a 7-column, 6-row vertically suspended grid.
+- The first player to form a horizontal, vertical, or diagonal line of **four of their own discs** wins the game.
+- The game announces the winner once a player connects four pieces.
+
+---
+
+## 📌 Features
+
+- Interactive grid creation using JavaScript
+- Real-time turn updates
+- Winner detection and display
+- Responsive design for multiple screen sizes
+
+---
+
+## 📎 Notes
+
+- No frameworks or external libraries used
+- Lightweight and fast to load
+- Purely frontend-based — no backend required
+
+---
+
+## 👤 Author
+Sri Charan  
+June 2024
